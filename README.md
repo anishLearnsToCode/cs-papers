@@ -16,8 +16,7 @@ following the [contributing guidelines](CONTRIBUTING.md).
 
 | Paper Title | Date | Links |
 |-------------|------|:--------:|
-
 | Neural Word Embedding as Implicit Matrix Factorization | January 2014 | [📄](papers/nlp/NIPS-2014-neural-word-embedding-as-implicit-matrix-factorization-Paper/pdf) |
 | Sequence to Sequence Learning with Neural Networks | Nov 2014 | [📄](papers/nlp/NIPS-2014-sequence-to-sequence-learning-with-neural-networks-Paper.pdf) |
-| Skip Thought Vectors | 22 June 2015 | [📄](papers/nlp/1506.06726.pdf)
+| Skip Thought Vectors | 22 June 2015 | [📄](papers/nlp/1506.06726.pdf)|
 | Attention with Intention for a Neural Network Conversation Model | 5 Nov 2015 | [📄](papers/nlp/1510.08565.pdf)|
