@@ -7,8 +7,8 @@ This is a constantly evolving repository and you can also contribute by simply
 following the [contributing guidelines](CONTRIBUTING.md). 
 
 ## Overview
-1. [Computer Vision]()
-1. [NLP]()
+1. [Computer Vision](#computer-vision)
+1. [NLP](#natural-language-processing-nlp)
 
 ## Computer Vision
 
