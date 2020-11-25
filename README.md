@@ -11,6 +11,12 @@ following the [contributing guidelines](CONTRIBUTING.md).
 1. [NLP](#natural-language-processing-nlp)
 
 ## Computer Vision
+| Paper Title | Date | Links |
+|-------------|------|:--------:|
+| A Framework For Measuring Video Similarity and it's Applications To Video Query By Example | August 1999 | [📄](papers/cv/a-framework-for-measuring-video-similarity.pdf) |
+| Topic Models for Scene Analysis and Abnormality Detection | 2009 | [📄](papers/cv/Topic-Models-for-Scene-Analysis-and-Abnormality-Detection-idiap.pdf) |
+| Anomaly Detection in Crowded Scenes | 2010 | [📄](papers/cv/anomaly-detection-in-crowded-scenes-2010.pdf) |
+| Real-world Anomaly Detection in Surveillance Videos | 2019 | [📄](papers/cv/real-world-anomaly-detection-in-surveillance-videos.pdf) |
 
 ## Natural Language Processing (NLP)
 
